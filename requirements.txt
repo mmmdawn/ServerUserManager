@@ -1,0 +1,10 @@
+pip~=22.3.1
+wheel~=0.38.4
+Brotli~=1.0.9
+cryptography~=3.4.8
+Pillow~=9.3.0
+Jinja2~=3.1.2
+pfzy~=0.3.4
+wcwidth~=0.2.5
+inquirerpy~=0.3.4
+setuptools~=44.1.1
